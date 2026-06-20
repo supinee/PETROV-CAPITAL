@@ -1,0 +1,52 @@
+# Gizlilik Politikası
+
+Son Güncelleme: 20 Haziran 2026
+
+Bu politika, Discord botunun hangi verileri topladığını ve nasıl kullandığını açıklar.
+
+## 1. Toplanan Veriler
+
+Bot aşağıdaki verileri işleyebilir:
+
+* Discord Kullanıcı ID'si
+* Discord Sunucu ID'si
+* Discord Kanal ID'si
+* Rol bilgileri
+* Davet istatistikleri
+* Aktiflik verileri
+* Destek kayıtları (ticket verileri)
+* Kayıt sistemi verileri
+
+## 2. Verilerin Kullanımı
+
+Toplanan veriler yalnızca aşağıdaki amaçlarla kullanılır:
+
+* Bot özelliklerinin çalıştırılması
+* Kayıt sisteminin yönetilmesi
+* Destek sisteminin yönetilmesi
+* Güvenlik ve log işlemleri
+* Aktiflik ve davet istatistikleri
+
+## 3. Veri Paylaşımı
+
+Bot tarafından işlenen veriler üçüncü taraf kişi veya kuruluşlarla satılmaz, kiralanmaz veya paylaşılmaz.
+
+## 4. Veri Saklama
+
+Veriler botun düzgün çalışabilmesi için gerekli olduğu sürece saklanabilir.
+
+## 5. Veri Güvenliği
+
+Verilerin güvenliği için makul teknik önlemler alınmaktadır. Ancak internet üzerinden yapılan hiçbir veri aktarımı tamamen güvenli olarak garanti edilemez.
+
+## 6. Haklarınız
+
+Kullanıcılar, kendi verileri hakkında bilgi talep edebilir veya verilerinin silinmesini isteyebilir.
+
+## 7. Değişiklikler
+
+Bu politika gerekli durumlarda güncellenebilir.
+
+## 8. İletişim
+
+Gizlilik ile ilgili sorularınız için ilgili Discord sunucusunun yönetim ekibi ile iletişime geçebilirsiniz.

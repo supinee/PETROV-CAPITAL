@@ -1,0 +1,34 @@
+# Hizmet Koşulları
+
+Son Güncelleme: 20 Haziran 2026
+
+Bu Discord botunu kullanarak aşağıdaki şartları kabul etmiş olursunuz.
+
+## 1. Kullanım
+
+Bot, Discord sunucularında yönetim, kayıt, destek ve topluluk işlemlerini kolaylaştırmak amacıyla geliştirilmiştir.
+
+## 2. Yasaklı Kullanımlar
+
+Aşağıdaki davranışlar yasaktır:
+
+* Botu kötüye kullanmak
+* Sistemi yanıltmaya çalışmak
+* Yetkisiz erişim girişimlerinde bulunmak
+* Spam veya zararlı içerik oluşturmak
+
+## 3. Hizmet Değişiklikleri
+
+Bot sahibi, önceden bildirim yapmaksızın bot özelliklerini değiştirme, kaldırma veya hizmeti sonlandırma hakkını saklı tutar.
+
+## 4. Sorumluluk Reddi
+
+Bot "olduğu gibi" sunulmaktadır. Bot sahibi oluşabilecek veri kayıplarından, hizmet kesintilerinden veya üçüncü taraf kaynaklı sorunlardan sorumlu tutulamaz.
+
+## 5. Discord Kuralları
+
+Botun kullanımı sırasında Discord'un Hizmet Şartları ve Topluluk Kuralları geçerlidir.
+
+## 6. İletişim
+
+Sorularınız için ilgili Discord sunucusunun yönetim ekibi ile iletişime geçebilirsiniz.
